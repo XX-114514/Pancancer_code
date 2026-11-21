@@ -26,4 +26,4 @@ The final figure IDs below are assembled by `run_all_figures.py`. Intermediate n
 
 Every assembled figure is exported as PNG, PDF and SVG. The manifest records 57 output-file hashes. The R4 and composition branches also render intermediate panels outside the final manuscript selection; these remain in `intermediate/` with their source tables and logs.
 
-For exact package-relative inputs, see [FIGURE_INPUT_MAP.tsv](FIGURE_INPUT_MAP.tsv). This file contains input locations and measurement scope, not research observations.
+See [FIGURE_INPUT_MAP.tsv](FIGURE_INPUT_MAP.tsv) for the public renderer map. Exact input locations are supplied in the private companion package manifest.
