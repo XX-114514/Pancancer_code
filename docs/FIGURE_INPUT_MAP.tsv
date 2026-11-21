@@ -1,0 +1,20 @@
+figure	plotting_script	input_access
+Figure1_resolved_atlas	scripts/plotting/render_R4_portable.py	Matching companion package; consult its private input manifest
+Figure2_composition_landscape	scripts/plotting/render_composition_and_LN.py	Matching companion package; consult its private input manifest
+Figure3_immune_state_combination	scripts/plotting/render_story_panels.py	Matching companion package; consult its private input manifest
+Figure4_immune_clinical_readouts	scripts/plotting/render_story_panels.py	Matching companion package; consult its private input manifest
+Figure5_lymph_node_organization	scripts/plotting/render_composition_and_LN.py	Matching companion package; consult its private input manifest
+Figure6_vascular_architecture	scripts/plotting/render_R4_portable.py	Matching companion package; consult its private input manifest
+Figure7_cancer_context	scripts/plotting/render_story_panels.py	Matching companion package; consult its private input manifest
+FigureS01_source_coverage	scripts/plotting/render_R4_portable.py	Matching companion package; consult its private input manifest
+FigureS02_annotation_dotplot	scripts/plotting/render_R4_portable.py	Matching companion package; consult its private input manifest
+FigureS03_module_networks	scripts/plotting/render_R4_portable.py	Matching companion package; consult its private input manifest
+FigureS04_source_cancer_coordinates	scripts/plotting/render_R4_portable.py	Matching companion package; consult its private input manifest
+FigureS05_spatial_denominators	scripts/plotting/render_R4_portable.py	Matching companion package; consult its private input manifest
+FigureS06_identity_key	scripts/plotting/render_R4_portable.py	Matching companion package; consult its private input manifest
+FigureS07_immune_atlas	scripts/plotting/render_story_panels.py	Matching companion package; consult its private input manifest
+FigureS08_T_state_dimensions	scripts/plotting/render_story_panels.py	Matching companion package; consult its private input manifest
+FigureS09_prediction_information	scripts/plotting/render_story_panels.py	Matching companion package; consult its private input manifest
+FigureS10_source_composition	scripts/plotting/render_composition_and_LN.py	Matching companion package; consult its private input manifest
+FigureS11_imaging_neighborhoods	scripts/plotting/render_R4_portable.py	Matching companion package; consult its private input manifest
+FigureS12_molecular_context	scripts/plotting/render_composition_and_LN.py	Matching companion package; consult its private input manifest
