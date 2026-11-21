@@ -27,7 +27,7 @@ scripts/
     package_supplementary_figures.py # Supplementary vector PDF with English legends
 docs/
   FIGURES.md                      # Every final ID, renderer, intermediate ID and role
-  FIGURE_INPUT_MAP.tsv             # Exact relative input locations; no observations
+  FIGURE_INPUT_MAP.tsv             # Public renderer/input-access map
   INPUTS.md                       # Required package layout and key formats
   CODE_PROVENANCE.tsv             # SHA256 of the frozen source scripts
 requirements-plotting.txt
@@ -63,7 +63,7 @@ ${PLOT_PACKAGE}/
     figure_configuration.json
 ```
 
-The reviewed companion package contains 96 frozen input files. The public repository supplies code and an input map; expression matrices, plotting arrays, scientific tables, manuscript prose, learned W/H weights and credentials are not included. The inputs must come from the matching draft package. See [INPUTS.md](docs/INPUTS.md) for formats and dictionaries.
+The reviewed companion package contains 96 frozen input files. The public repository supplies code and a renderer/input-access map; expression matrices, plotting arrays, scientific tables, manuscript prose, learned W/H weights and credentials are not included. The inputs must come from the matching draft package. See [INPUTS.md](docs/INPUTS.md) for formats and dictionaries.
 
 ## Rebuild all figures
 
