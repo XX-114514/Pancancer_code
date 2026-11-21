@@ -1,0 +1,8 @@
+path	sha256	source_release	byte_identical_to_frozen_source
+scripts/plotting/verify_plot_inputs.py	0b91212e03fff24f546f938e808d34b7986eb53d16706b33baa98f745827d5d9	2026-11-20 story v2 frozen review package	True
+scripts/plotting/render_R4_portable.py	2b71e2a53973e304c5c9a8b58c66cb84d61713844e12bd0f138dbb9c709527aa	2026-11-20 story v2 frozen review package	True
+scripts/plotting/run_all_figures.py	1500cb94e8404aee01909437a59058dab09c7c30225a1b4687e86905c76870c4	2026-11-20 story v2 frozen review package	True
+scripts/plotting/render_story_panels.py	baef00a701d8ccc3f0b0385e080158dff8927fd2f7606fcc56194a50f698fa7a	2026-11-20 story v2 frozen review package	True
+scripts/plotting/render_composition_and_LN.py	ed85abf65de5d09c8969f3d83c95f82b50c66bc03d5771ce8f53eac42d11c6a3	2026-11-20 story v2 frozen review package	True
+scripts/manuscript/package_supplementary_figures.py	11c45ad79394234dd6ff5397127e1ad7fd6a41636618559a1caed76fa50d6758	2026-11-20 story v2 frozen review package	True
+scripts/manuscript/build_manuscript.py	ecbbdad88b3f4a6638674d6896944cb7c268ec8aa7eec5885be6fb3bb7a9e234	2026-11-20 story v2 frozen review package	True
