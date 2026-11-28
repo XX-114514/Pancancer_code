@@ -1,5 +1,7 @@
 # PanCancer manuscript figure code
 
+[Preprint v3 code and input guide](preprint_v3/README.md)
+
 Reproducible plotting scripts for the **2026-11-20 draft** of the PanCancer manuscript. The workflow assembles **7 main figures and 12 supplementary figures** from frozen plotting inputs, exporting PNG, PDF and editable SVG.
 
 [中文说明](README.zh-CN.md) · [Figure map](docs/FIGURES.md) · [Input contract](docs/INPUTS.md) · [Code provenance](docs/CODE_PROVENANCE.tsv)
